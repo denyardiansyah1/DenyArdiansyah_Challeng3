@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a57f5cba-a24d-40cd-8713-f935c4c0c17f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/denyardiansyah_challeng2/ui/gallery/GalleryFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/denyardiansyah_challeng2/ui/gallery/GalleryViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/denyardiansyah_challeng2/ui/home/HomeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/denyardiansyah_challeng2/ui/home/HomeViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/denyardiansyah_challeng2/ui/slideshow/SlideshowFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/denyardiansyah_challeng2/ui/slideshow/SlideshowViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic_menu_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic_menu_gallery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic_menu_slideshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/side_nav_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_deny1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_detailmenumakanan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_tampilan2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/app_bar_deny1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/content_deny1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/fragment_gallery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/fragment_slideshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/nav_header_deny1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menu/activity_main_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menu/deny1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../navigation/mobile_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values-w1240dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values-w600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/themes.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2VZ0ZD7gUAk1pEpcyII3I4TUgLy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/UserH/AndroidStudioProjects/DenyArdiansyah_Challeng2/app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a57f5cba-a24d-40cd-8713-f935c4c0c17f" name="Changes" comment="" />
+      <created>1695028347916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695028347916</updated>
+    </task>
+    <servers />
+  </component>
+</project>
